@@ -23,7 +23,7 @@ const { isDark, toggleTheme } = useTheme();
     <header className='bg-background sticky top-0 z-50'>
       <div className='mx-auto flex max-w-7xl items-center justify-between gap-8 px-4 py-4 sm:px-6'>
         <a href='/' className='flex items-center gap-3'>
-            <img src='/image/logo-kabupaten-bantul.png' alt='Logo' className='h-16 w-16'/>
+            <img src='/image/logo-kabupaten-bantul.png' alt='Logo' className='h-10 md:h-16 w-10 md:w-16'/>
           </a>
         <div className='text-muted-foreground flex flex-1 items-center gap-8 font-medium md:justify-center lg:gap-16'>
           {navigationData.map((item) => (
