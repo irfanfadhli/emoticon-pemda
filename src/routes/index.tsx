@@ -81,7 +81,7 @@ function RouteComponent() {
               "_blank"
             )
           }
-          className="  bg-emerald-400 text-black px-8 py-4 mt-2 rounded-lg font-bold text-lg hover:bg-secondary transition shadow-lg flex items-center space-x-2 animate-bounce"
+          className="  bg-emerald-400 text-black px-8 py-4 mt-12 rounded-lg font-bold text-lg hover:bg-secondary transition shadow-lg flex items-center space-x-2 animate-bounce"
         >
           <FileText size={24} />
           <span>Ajukan Cuti Sekarang</span>
