@@ -15,15 +15,15 @@ const navigationData = [
   },
   {
     title: 'Cuti PNS Negeri',
-    href: '/pns-negeri/'
+    href: '/pns-negeri'
   },
   {
     title: 'Cuti PNS Swasta',
-    href: '/swasta/'
+    href: '/swasta'
   },
   {
     title: 'PPPK',
-    href: '/pppk/'
+    href: '/pppk'
   }
 ]
 
