@@ -6,9 +6,9 @@ export default function Footer() {
           <div>
             <h3 className="font-bold mb-5 ">Kontak</h3>
             <p className="text-sm ">
-              +628114333072
+              0274 367171
             </p>
-            <p className="text-sm  mt-2">ptk@gmail.com</p>
+            <p className="text-sm  mt-2">bidangptk.dikporabantul@gmail.com</p>
           </div>
           <div>
             <h3 className="font-bold mb-5 ">Alamat</h3>
