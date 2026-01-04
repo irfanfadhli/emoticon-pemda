@@ -6,14 +6,14 @@ export const Route = createFileRoute("/swasta/")({
 });
 
 const menuItems = [
-  { id: "cuti melahirkan", nama: "Cuti Melahirkan", path: "/swasta/cuti-melahirkan/" },
-  { id: "Cuti Sakit", nama: "Cuti Sakit", path: "/swasta/cuti-sakit/" },
+  { id: "cuti melahirkan", nama: "Cuti Melahirkan", path: "/swasta/cuti-melahirkan" },
+  { id: "Cuti Sakit", nama: "Cuti Sakit", path: "/swasta/cuti-sakit" },
   {
-    id: "Cuti Tahunan", nama: "Cuti Tahunan", path: "/swasta/cuti-tahunan/",
+    id: "Cuti Tahunan", nama: "Cuti Tahunan", path: "/swasta/cuti-tahunan",
   },
-  { id: "Cuti Alasan Penting", nama: "Cuti Alasan Penting", path: "/swasta/cuti-alasan-penting/" },
-  { id: "CLTN", nama: "Cltn", path: "/swasta/cltn/" },
-  { id: "Cuti Besar", nama: "Cuti Besar", path: "/swasta/cutiBesar/" },
+  { id: "Cuti Alasan Penting", nama: "Cuti Alasan Penting", path: "/swasta/cuti-alasan-penting" },
+  { id: "CLTN", nama: "Cltn", path: "/swasta/cltn" },
+  { id: "Cuti Besar", nama: "Cuti Besar", path: "/swasta/cutiBesar" },
 ];
 
 function IndexComponent() {

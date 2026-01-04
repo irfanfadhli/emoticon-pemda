@@ -8,10 +8,10 @@ export const Route = createFileRoute("/pns-negeri/")({
 
 const menuItems = [
   { id: 'jenis', nama: 'Jenis Cuti', path: '/pns-negeri/jenis-cuti' },
-  { id: 'dasar', nama: 'Dasar Hukum', path: '/dasar-hukum/' },
-  { id: 'syarat', nama: 'Syarat dan Kelengkapan Berkas', path: '/syarat-berkas/' },
+  { id: 'dasar', nama: 'Dasar Hukum', path: '/dasar-hukum' },
+  { id: 'syarat', nama: 'Syarat dan Kelengkapan Berkas', path: '/syarat-berkas' },
   { id: 'prosedur', nama: 'Tutorial Penggunaan E-cuti', path: '/prosedur' },
-  { id: 'pyb', nama: 'PYB Memberikan Cuti', path: '/pyb/' },
+  { id: 'pyb', nama: 'PYB Memberikan Cuti', path: '/pyb' },
   { id: 'penggunaan e-presensi', nama: 'Tutorial Penggunaan E-Presensi', path: '/e-presensi' },
   { id: 'ketentuan lainnya', nama: 'Ketentuan lainnya', path: '/ketentuan' },
   { id: 'check pengajuan ttd cuti', nama: 'Check Pengajuan TTD Cuti', path: '/ttd-cuti' }

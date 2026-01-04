@@ -15,7 +15,7 @@ const menuItems = [
   {
     id: "Cuti Tahunan",
     nama: "Cuti Tahunan",
-    path: "/pns-negeri/tahunan-negeri/",
+    path: "/pns-negeri/tahunan-negeri",
   },
   {
     id: "Cuti Alasan Penting",
