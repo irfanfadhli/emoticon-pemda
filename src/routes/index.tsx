@@ -89,7 +89,7 @@ function RouteComponent() {
       </div>
       <section className="max-w-6xl mx-auto px-6 py-12 mt-10">
         <h2 className="text-2xl font-bold text-shadow-white text-center">
-          Bidang Pembinaan Tenaga Kependidikan (PTK)
+          Bidang Pendidik dan Tenaga Kependidikan (PTK)
         </h2>
         <p className="text-center max-w-2xl mx-auto mt-10">
           Bidang PTK bertugas menyelenggarakan pembinaan guru dan tenaga
